@@ -1,8 +1,8 @@
-import React from 'react'
+import Layout from '../components/Layout'
 
 const MyOrder = () => {
   return (
-    <div>MyOrder</div>
+    <Layout>MyOrder</Layout>
   )
 }
 
